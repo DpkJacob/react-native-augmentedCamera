@@ -7,7 +7,8 @@ The picture once captured is saved in to the gallery under an album named myApp.
 
 ### note:
 The project does not make use of facial recognition or any other similar technologies.The superimposed image object works similar to how an instagram story sticker works.
-This project is solely meant to showcase one of many applications of **DpkJacob/react-native-gestureResponsiveComponents**
+This project is solely meant to showcase one of many applications of **DpkJacob/react-native-gestureResponsiveComponents**.
+The apk file for the project is available in the folder sampleApk.
 
 ## Features:
 * Image object supports all gestures enabled by **DpkJacob/react-native-gestureResponsiveComponents**
